@@ -31,4 +31,4 @@ Output:
                 num = int(temp[j]) + int(temp[j+1])
                 op.append(num)
             output.append(op)
-        return outpu
+        return output
