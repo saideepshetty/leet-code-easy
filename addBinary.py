@@ -18,6 +18,7 @@ Constraints:
 Each string consists only of '0' or '1' characters.
 1 <= a.length, b.length <= 10^4
 Each string is either "0" or doesn't contain any leading zero.
+Code By Saideep Shetty
 '''
 class Solution:
     def addBinary(self, a, b):
