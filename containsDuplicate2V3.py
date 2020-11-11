@@ -13,6 +13,7 @@ Example 3:
 
 Input: nums = [1,2,3,1,2,3], k = 2
 Output: false
+Code By Saideep Shetty
 '''
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
