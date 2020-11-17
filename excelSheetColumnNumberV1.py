@@ -23,6 +23,7 @@ Example 3:
 
 Input: "ZY"
 Output: 701
+Code By Saideep Shetty
 '''
 class Solution:
     def titleToNumber(self, s):
