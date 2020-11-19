@@ -14,6 +14,7 @@ Explanation:
 82 + 22 = 68
 62 + 82 = 100
 12 + 02 + 02 = 1
+Code By Saideep Shetty
 '''
 class Solution(object):
     def isHappy(self, n):
