@@ -13,6 +13,7 @@ Note:
 
 Each element in the result must be unique.
 The result can be in any order.
+Code By Saideep Shetty
 '''
 class Solution(object):
     def intersection(self, nums1, nums2):
