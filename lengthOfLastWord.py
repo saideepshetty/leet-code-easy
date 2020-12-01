@@ -9,6 +9,7 @@ Example:
 
 Input: "Hello World"
 Output: 5
+Code By Saideep Shetty
 '''
 
 class Solution(object):
