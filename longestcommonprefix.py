@@ -12,6 +12,7 @@ Example 2:
 Input: ["dog","racecar","car"]
 Output: ""
 Explanation: There is no common prefix among the input strings.
+Code By Saideep Shetty
 '''
 class Solution(object):
     def longestCommonPrefix(self, input_array):
