@@ -26,6 +26,7 @@ Example 3:
 
 Input: n = 2
 Output: true
+Code By Saideep Shetty
 '''
 class Solution:
     def canWinNim(self, n: int) -> bool:
