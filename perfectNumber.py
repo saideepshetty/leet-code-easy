@@ -32,6 +32,7 @@ Output: false
 Constraints:
 
 1 <= num <= 108
+Code By Saideep Shetty
 '''
 class Solution:
     def checkPerfectNumber(self, num: int) -> bool:
