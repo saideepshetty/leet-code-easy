@@ -10,6 +10,7 @@ Example 2:
 Input: 5
 Output: false
 Follow up: Could you solve it without loops/recursion?
+Code By Saideep Shetty
 '''
 class Solution:
     def isPowerOfFour(self, num: int) -> bool:
