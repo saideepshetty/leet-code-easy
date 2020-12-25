@@ -17,6 +17,7 @@ For example, after running your query, the above Person table should have the fo
 | 1  | john@example.com |
 | 2  | bob@example.com  |
 +----+------------------+
+Query by Saideep Shetty
 '''
 
 Solution:
