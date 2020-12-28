@@ -19,6 +19,7 @@ Input: 45
 Output: false
 Follow up:
 Could you do it without using any loop / recursion?
+Cdoe By Saideep Shetty
 '''
 class Solution:
     def isPowerOfThree(self, n):
