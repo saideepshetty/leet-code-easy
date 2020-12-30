@@ -15,6 +15,7 @@ Example 3:
 
 Input: 218
 Output: false
+Code By Saideep Shetty
 '''
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
