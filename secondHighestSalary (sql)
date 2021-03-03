@@ -15,7 +15,7 @@ For example, given the above Employee table, the query should return 200 as the 
 +---------------------+
 | 200                 |
 +---------------------+
-Query by Saideep Shetty
+Query by Saideep Shetty.
 '''
 Solution:
 SELECT MAX(Salary) as "SecondHighestSalary"
