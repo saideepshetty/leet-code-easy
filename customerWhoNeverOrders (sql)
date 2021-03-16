@@ -26,7 +26,7 @@ Using the above tables as example, return the following:
 | Henry     |
 | Max       |
 +-----------+
-
+Query By Saideep Shetty
 Solution:
 
 SELECT Name as "Customers"
