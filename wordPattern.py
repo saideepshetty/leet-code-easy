@@ -19,6 +19,8 @@ Example 4:
 
 Input: pattern = "abba", str = "dog dog dog dog"
 Output: false
+
+Code By Saideep Shetty
 '''
 class Solution:
     def wordPattern(self, pattern: str, str: str) -> bool:
